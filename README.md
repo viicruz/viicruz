@@ -5,8 +5,6 @@
 
 IT student aiming to become a software developer.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-fonseca-5793aa208/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/viicruz) 
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=viicruz&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
