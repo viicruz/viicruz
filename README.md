@@ -52,5 +52,5 @@ I'm a Full Stack Web Developer with 3 years of experience building modern web ap
 
 ## 🌎 Find me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/victor-cruz-9a40a72a0/?skipRedirect=true
+- 💼 LinkedIn: https://www.linkedin.com/in/victor-cruz-9a40a72a0
 - 🌐 Portfolio: https://victorcruz.vercel.app/
