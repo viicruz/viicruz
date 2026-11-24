@@ -1,6 +1,10 @@
 # Hi there, I'm Victor 👋
 
-I'm a Full Stack Web Developer with 3 years of experience building modern web applications using technologies like Next.js, TypeScript, and Laravel. I graduated in Internet Systems from FATEC Jales and enjoy creating software that solves real-world problems. In my free time, I like experimenting with Three.js and building interactive 3D experiences.
+I'm a Full Stack Web Developer with 3 years of experience building modern web applications using technologies like Next.js, TypeScript, and Laravel. I graduated in Internet Systems from FATEC Jales and enjoy creating software that solves real-world problems.
+
+I also develop [Catlex](https://github.com/Hammertail/catlex), an open-source CLI tool that uses LLMs to translate JSON and Markdown files, with automated translation validation and correction for CI/CD pipelines.
+
+In my free time, I like experimenting with Three.js and building interactive 3D experiences.
 
 ## 🚀 Tech Stack
 
